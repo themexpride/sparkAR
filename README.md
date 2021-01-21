@@ -1,2 +1,1 @@
-# sparkAR
-Spark AR filters
+# SparkAR Filters
